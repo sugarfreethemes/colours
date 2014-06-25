@@ -795,7 +795,7 @@ section {
   width: 590px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 248px;
+  margin-top: 222px;
   position: relative;
   background: #fbfbfb;
   -moz-border-radius: 3px;
@@ -818,7 +818,7 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 220px;
+  top: 250px;
   left: 50%;
   margin-left: -580px;
   text-align: right;
