@@ -659,7 +659,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: #DEB887;
+  background: url(https://cloud.githubusercontent.com/assets/4143585/3390158/0d09db4e-fc9c-11e3-8037-a95f38861066.png) repeat;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -691,7 +691,6 @@ header p {
   margin-right: -80px;
   text-align: right;
   z-index: 100;
-  left: 0;
   right: 134px;
   height: 250px;
   top: 275px;
