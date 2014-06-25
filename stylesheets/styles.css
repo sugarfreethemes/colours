@@ -680,7 +680,7 @@ header h1 {
   -ms-text-overflow: ellipsis;
 }
 header p {
-  color: ##FFFF73;
+  color: #FFFF73;
   text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
   font-size: 18px;
   margin: 0px;
@@ -849,7 +849,7 @@ nav ul a:hover {
   color: #999;
 }
 .active {
-  border-left:5px Solid ##FFFF73;
+  border-left:5px Solid #FFFF73;
   font-weight:bold;
 }
 footer {
