@@ -733,6 +733,7 @@ header p {
 }
 #banner .button:hover {
   background-color: #111;
+  color:#FFF;
 }
 #banner .fork {
   position: fixed;
