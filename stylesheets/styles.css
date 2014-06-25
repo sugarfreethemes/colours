@@ -687,13 +687,13 @@ header p {
 }
 
 #banner {
-  width: 230px;
+  width: 530px;
   position: fixed;
-  margin-left: -580px;
+  margin-right: -80px;
   text-align: right;
   z-index: 100;
   left: 0;
-  right: 50%;
+  right: 134px;
   height: 250px;
   top: 275px;
   background: #ffcc00;
