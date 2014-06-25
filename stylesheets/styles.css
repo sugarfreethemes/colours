@@ -222,7 +222,7 @@ p,
 pre {
   margin: 1em 0;
 }
-
+.
 /*
  * Corrects font family set oddly in IE6, S4/5, Chrome
  * en.wikipedia.org/wiki/User:Davidgothberg/Test59
@@ -659,7 +659,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: #DEB887;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -849,7 +849,9 @@ nav ul a {
 nav ul a:hover {
   color: #999;
 }
-
+.active {
+  border-left:5px Solid #00008B;
+}
 footer {
   width: 180px;
   position: fixed;
