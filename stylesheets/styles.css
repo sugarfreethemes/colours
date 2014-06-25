@@ -680,7 +680,7 @@ header h1 {
   -ms-text-overflow: ellipsis;
 }
 header p {
-  color: #d8d8d8;
+  color: ##FFFF73;
   text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
   font-size: 18px;
   margin: 0px;
@@ -748,10 +748,9 @@ header p {
 }
 #banner .fork {
   position: fixed;
-  left: 50%;
-  margin-left: -325px;
+  right: 110px;
   padding: 10px 12px;
-  margin-top: 6px;
+  margin-top: 65px;
   line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
@@ -850,7 +849,7 @@ nav ul a:hover {
   color: #999;
 }
 .active {
-  border-left:5px Solid #00008B;
+  border-left:5px Solid ##FFFF73;
   font-weight:bold;
 }
 footer {
