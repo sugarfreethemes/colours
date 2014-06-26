@@ -840,7 +840,7 @@ nav ul a:hover {
   color: #999;
 }
 .active {
-  border-left:5px Solid #FFFF73;
+  border-left:5px Solid #A9A9A9;
   font-weight:bold;
 }
 footer {
