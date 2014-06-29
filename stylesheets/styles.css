@@ -877,6 +877,13 @@ footer {
 
   #banner {
     width: 100%;
+    position: fixed;
+    margin-right: -80px;
+    text-align: right;
+    z-index: 100;
+    right: 134px;
+    height: 143px;
+    top: 275px;
   }
   #banner .downloads {
     margin-right: 60px;
