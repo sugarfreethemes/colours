@@ -936,14 +936,19 @@ footer {
   }
 
   #banner {
-    top: 80px;
+    width: 149px;
+    position: fixed;
+    margin-right: 0px;
+    text-align: right;
+    z-index: 100;
+    right: 0px;
+    height: 210px;
+    top: 199px;
+    padding-right:0px;
   }
   #banner .fork {
-    float: left;
-    display: inline-block;
-    margin-left: 0px;
-    position: fixed;
-    left: 20px;
+    right:19px;
+    margin-top:145px;
   }
 
   section {
