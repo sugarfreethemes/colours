@@ -878,12 +878,13 @@ footer {
   #banner {
     width: 100%;
     position: fixed;
-    margin-right: -80px;
+    margin-right: 0px;
     text-align: right;
     z-index: 100;
-    right: 134px;
+    right: 0px;
     height: 143px;
     top: 275px;
+    padding-right:0px;
   }
   #banner .downloads {
     margin-right: 60px;
