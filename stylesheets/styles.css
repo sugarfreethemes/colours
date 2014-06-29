@@ -876,15 +876,19 @@ footer {
   }
 
   #banner {
-    width: 100%;
+    width: 149px;
     position: fixed;
     margin-right: 0px;
     text-align: right;
     z-index: 100;
     right: 0px;
-    height: 143px;
-    top: 275px;
+    height: 210px;
+    top: 199px;
     padding-right:0px;
+  }
+  #banner .fork {
+    right:19px;
+    margin-top:145px;
   }
   #banner .downloads {
     margin-right: 60px;
